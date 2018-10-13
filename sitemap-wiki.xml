@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://strikt.io/wiki/user-guide</loc>
+        <lastmod>2018-10-13T15:52:28.397</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/user-guide/getting-started</loc>
+        <lastmod>2018-10-13T15:52:28.388</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/user-guide/assertion-styles</loc>
+        <lastmod>2018-10-13T15:52:28.389</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/user-guide/collection-elements</loc>
+        <lastmod>2018-10-13T15:52:28.390</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/user-guide/expecting-exceptions</loc>
+        <lastmod>2018-10-13T15:52:28.391</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/user-guide/flow-typing</loc>
+        <lastmod>2018-10-13T15:52:28.392</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/user-guide/traversing-subjects</loc>
+        <lastmod>2018-10-13T15:52:28.392</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/user-guide/grouping-with-and</loc>
+        <lastmod>2018-10-13T15:52:28.393</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/user-guide/custom-assertions</loc>
+        <lastmod>2018-10-13T15:52:28.394</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/user-guide/additional-modules</loc>
+        <lastmod>2018-10-13T15:52:28.395</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    
+</urlset>
